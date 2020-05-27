@@ -27,7 +27,7 @@
     "debug": "4",
     "nan": "^2.13.2",
     "ref": "github:Im-Kevin/ref#node-12",
-    "ref-struct": "github:Im-Kevin/ref-struct#node-12",
+    "ref-struct": "github:Im-Kevin/ref-struct#node-12"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
